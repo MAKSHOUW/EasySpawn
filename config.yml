@@ -1,0 +1,17 @@
+# Developed by MAKSHOUW - Don't remove this line. If u like my work, you can make me a donation
+# You can edit all value from the configuration, if u need help, let me know.
+message:
+    teleport_accepted: "&7Teleportation..."
+    sender_is_not_player: "&cCommand can only be used by a player."
+    no_permission: "&cYou don't have permission to perform this command."
+    set_spawn_success: "&aYou have re/defined the spawn point."
+    config_reloaded_success: "&eThe configuration has been reloaded."
+permission:
+    setspawn_permission: "easyspawn.permission.setspawn"
+    reload_config_permission: "easyspawn.permission.reload_config"
+main:
+    prefix: "&6[&c&lEasySpawn&r&6] "
+    teleport_on_connect: "false" 
+    send_teleport_message_on_join: "false"
+location:
+    loc: world:0:90:0:0:90

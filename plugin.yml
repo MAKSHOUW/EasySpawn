@@ -1,0 +1,7 @@
+main: be.makshouw.easyspawn.EasySpawn
+author: MAKSHOUW
+version: 3.2
+name: EasySpawn
+commands:
+  spawn:
+  setspawn:
